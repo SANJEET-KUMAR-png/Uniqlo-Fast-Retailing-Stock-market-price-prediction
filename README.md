@@ -4,8 +4,7 @@
   and 2017 data was used for testing. Comprehensive EDA (Exploratory Data Analysis) and data preprocessing were performed to clean  
   and visualize trading patterns.
 
-Models such as Linear Regression and XGBoost were trained to predict the closing price, and performance was evaluated   
-using metrics like MSE,  R².
+Models such as Linear Regression and XGBoost were trained to predict the closing price, and performance was evaluated using metrics like MSE,  R².
 
 Python libraries used:
 numpy, pandas, matplotlib, seaborn, plotly, time, and sklearn.
